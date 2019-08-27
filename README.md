@@ -1,3 +1,3 @@
 # my-gitbook
 
-第一次使用gibook
+第一次使用gitbook
