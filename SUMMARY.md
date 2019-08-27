@@ -1,5 +1,5 @@
 ## TzuHsin的筆記
-* [README](README.md)
+* [Introduction](README.md)
 
 * 💻z-shell
     - [安裝](guide/zsh/install.md)

@@ -1,4 +1,4 @@
-# my-gitbook
+# 學習筆記
 
 * 💻z-shell
     - [安裝](guide/zsh/install.md)
