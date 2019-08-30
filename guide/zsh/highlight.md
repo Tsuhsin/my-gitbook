@@ -2,7 +2,7 @@
 
 ### 下載 zsh-syntax-highlighting
 ```
-brew install zsh-syntax-
+brew install zsh-syntax-highlighting
 ```
 ### 設定
 進vim修改`.zshrc`，加上以下內容：
